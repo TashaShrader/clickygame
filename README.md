@@ -1,4 +1,4 @@
-# ClickyGame
+# `ClickyGame`
 https://tashashrader.github.io/clickygame/
 
 
