@@ -1,0 +1,25 @@
+.row {
+background-color: grey;
+width:  630px;
+margin: auto;
+}
+body {
+ width: 100%;
+background-image: "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj2yJiBr57hAhUsw4MKHZK3DGEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F386676317986756148%2F&psig=AOvVaw3V45Xe_BJnM3B0kJYp-eoF&ust=1553639875718952";
+background-repeat: repeat;
+
+
+}
+.gremlin {
+width: 175px;
+border: 4px darkgrey;
+max-height: 190px;
+
+
+border-style: solid;
+margin-left: 20px;
+margin-top: 5px;
+margin-bottom: 5px;   
+border-radius: 5px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
