@@ -1,3 +1,5 @@
+https://tashashrader.github.io/clickygame/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
